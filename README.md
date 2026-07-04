@@ -1,6 +1,5 @@
 <div align="center">
 
-# Hi, I'm Joel Dibdib
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Joel%20Dibdib&fontSize=90&fontColor=ffffff&animation=blink&duration=3000" alt="Header" />
 

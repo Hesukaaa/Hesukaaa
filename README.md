@@ -26,11 +26,63 @@
 
 ---
 
-<div align="center">
+<div style="background: linear-gradient(135deg, #0f0f1e 0%, #16213e 100%); padding: 25px; border-radius: 12px; margin: 20px 0; border: 1px solid #00D9FF33;">
 
-### 📈 GitHub Stats
+<h2 align="center" style="color: #00D9FF; margin-top: 0;">📊 GitHub Stats Dashboard</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hesukaaa&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+
+<div style="background: rgba(255,255,255,0.05); padding: 15px 25px; border-radius: 10px; border: 1px solid #00D9FF33; min-width: 140px;">
+  <div style="color: #888; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">📁 Repositories</div>
+  <div style="font-size: 28px; font-weight: bold; color: #00D9FF;">5</div>
+</div>
+
+<div style="background: rgba(255,255,255,0.05); padding: 15px 25px; border-radius: 10px; border: 1px solid #00D9FF33; min-width: 140px;">
+  <div style="color: #888; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">👥 Followers</div>
+  <div style="font-size: 28px; font-weight: bold; color: #00D9FF;">1</div>
+</div>
+
+<div style="background: rgba(255,255,255,0.05); padding: 15px 25px; border-radius: 10px; border: 1px solid #00D9FF33; min-width: 140px;">
+  <div style="color: #888; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">🤝 Following</div>
+  <div style="font-size: 28px; font-weight: bold; color: #00D9FF;">0</div>
+</div>
+
+<div style="background: rgba(255,255,255,0.05); padding: 15px 25px; border-radius: 10px; border: 1px solid #00D9FF33; min-width: 140px;">
+  <div style="color: #888; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">⭐ Total Stars</div>
+  <div style="font-size: 28px; font-weight: bold; color: #00D9FF;">0</div>
+</div>
+
+</div>
+
+<h3 align="center" style="color: #fff;">💻 Top Languages</h3>
+
+<div align="center" style="margin-top: 15px;">
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 5px 0;">
+  <span style="color: #fff; font-weight: bold;">JavaScript</span>
+  <div style="background: #222; width: 200px; height: 12px; border-radius: 6px; overflow: hidden;">
+    <div style="background: #00D9FF; width: 70%; height: 100%; border-radius: 6px;"></div>
+  </div>
+  <span style="color: #00D9FF; font-weight: bold;">70%</span>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 5px 0;">
+  <span style="color: #fff; font-weight: bold;">HTML</span>
+  <div style="background: #222; width: 200px; height: 12px; border-radius: 6px; overflow: hidden;">
+    <div style="background: #E34F26; width: 20%; height: 100%; border-radius: 6px;"></div>
+  </div>
+  <span style="color: #E34F26; font-weight: bold;">20%</span>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 5px 0;">
+  <span style="color: #fff; font-weight: bold;">CSS</span>
+  <div style="background: #222; width: 200px; height: 12px; border-radius: 6px; overflow: hidden;">
+    <div style="background: #1572B6; width: 10%; height: 100%; border-radius: 6px;"></div>
+  </div>
+  <span style="color: #1572B6; font-weight: bold;">10%</span>
+</div>
+
+</div>
 
 </div>
 

@@ -6,9 +6,8 @@
 
 <div align="center" style="margin: 30px 0;">
 
-# Joel Dibdib
 
-### Full Stack Developer & UI/UX Designer
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Building%20Digital%20Experiences;Creating%20Beautiful%20Interfaces;Open%20Source%20Contributor&duration=4000&repeat=always" alt="Typing" />
 

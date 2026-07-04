@@ -2,7 +2,7 @@
 
 # Hi, I'm Joel Dibdib
 
-<img src="https://i.imgur.com/FDhBN5u.png" alt="Joel Dibdib" width="180" style="border-radius: 20%; border: 4px solid #00D9FF; margin: 12px 0;" />
+<img src="https://i.imgur.com/FDhBN5u.png" alt="Joel Dibdib" width="180" height="180" style="border-radius: 50%; border: 4px solid #00D9FF; object-fit: cover; display: block; margin: 12px auto;" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full%20Stack%20Developer;UI%2FUX%20Enthusiast;Open%20Source%20Lover;Creative%20Thinker&duration=4000&repeat=always" alt="Typing SVG" />
 

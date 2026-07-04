@@ -82,18 +82,11 @@
 
 <div align="center">
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Hesukaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesukaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hesukaaa&theme=tokyonight&hide_border=true)
-
-![Contribution Graph](https://ghchart.rshah.org/00D9FF/Hesukaaa)
-
+- **Public Repos:** 5
+- **Followers:** 1
+- **Following:** 0
+- **Top Languages:** JavaScript, HTML, CSS
+- **Contribution Graph:** Available on GitHub profile
 
 </div>
 
@@ -106,15 +99,11 @@
 <div align="center">
 
 ### 🎨 Personal Portfolio
-**Live:** [personal-portfolio-joel-dibdib.vercel.app](https://personal-portfolio-joel-dibdib.vercel.app)
+**Live:** personal-portfolio-joel-dibdib.vercel.app
 
 A modern personal portfolio website built with modern web technologies.
 
-<img src="https://i.imgur.com/NUk3tnT.jpeg" alt="Personal Portfolio Cover" style="max-width:100%; border-radius:12px; margin-bottom:12px;" />
-
-<a href="https://github.com/Hesukaaa/Personal-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hesukaaa&repo=Personal-Portfolio&theme=tokyonight&hide_border=true&show_description=true" />
-</a>
+**Repo:** [Hesukaaa/Personal-Portfolio](https://github.com/Hesukaaa/Personal-Portfolio)
 
 </div>
 

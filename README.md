@@ -91,7 +91,7 @@ A personal portfolio website built with modern web technologies.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hesukaaa&repo=Personal-Portfolio&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://personal-portfolio-two-dusky-50.vercel.app">
+<a href="https://personal-portfolio-joel-dibdib.vercel.app">
   <img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 

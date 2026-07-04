@@ -173,9 +173,26 @@ Stay tuned for more amazing projects! I'm currently working on some exciting thi
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 
-<sub>© 2024 Joel Dibdib. Built with こんな素晴らしい人です。 | <b>Keep Building, Keep Growing</b> なんてしょうがない</sub>
+<sub>© 2024 Joel Dibdib. Built with ❤️ | <b>Keep Building, Keep Growing</b></sub>
 
 </div>
+
+---
+
+## 🤝 Donation
+
+<div align="center">
+
+If you found my work helpful or inspiring, consider buying me a coffee!
+
+<br/>
+
+<a href="https://www.buymeacoffee.com/">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+</div>
+
 
 ---
 

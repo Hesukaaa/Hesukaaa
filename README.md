@@ -6,9 +6,9 @@
 
 <div align="center" style="margin: 30px 0;">
 
-# ✨ Hi, I'm Joel Dibdib
+# Joel Dibdib
 
-### 🎨 Full Stack Developer & UI/UX Designer
+### Full Stack Developer & UI/UX Designer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Building%20Digital%20Experiences;Creating%20Beautiful%20Interfaces;Open%20Source%20Contributor&duration=4000&repeat=always" alt="Typing" />
 
@@ -17,7 +17,7 @@
 <div align="center" style="margin: 20px 0;">
 
 [<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />](https://personal-portfolio-joel-dibdib.vercel.app)
-[<img src="https://img.shields.io/badge/Contact-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />](mailto:dibdibjoel4@gmail.com)
+[<img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />](mailto:dibdibjoel4@gmail.com)
 [<img src="https://img.shields.io/badge/Location-Philippines-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />](https://www.google.com/maps/place/Philippines)
 
 </div>
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
+## About Me
 
 <div style="background: rgba(0, 217, 255, 0.05); padding: 20px; border-radius: 12px; margin: 20px 0; border-left: 4px solid #00D9FF;">
 
@@ -38,14 +38,24 @@ I'm a passionate Full Stack Developer & Designer from the Philippines. I special
 
 </div>
 
-| 🎯 **Focus** | 💡 **Details** |
-|-------------|---------------|
-| 🌐 **Web Development** | React, Next.js, Node.js, Express |
-| 🎨 **UI/UX Design** | Figma, Tailwind CSS, Modern Design Systems |
-| 🗄️ **Database** | PostgreSQL, MongoDB |
-| 🛠️ **Tools** | Git, Docker, VS Code |
-| 📧 **Email** | [dibdibjoel4@gmail.com](mailto:dibdibjoel4@gmail.com) |
-| 📍 **Location** | Philippines |
+<table style="margin: 20px auto; border-collapse: collapse; min-width: 500px;">
+<tr style="border-bottom: 1px solid rgba(0, 217, 255, 0.2);">
+<td style="padding: 12px 20px; color: #888; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; font-size: 14px;">Focus</td>
+<td style="padding: 12px 20px; color: #fff; line-height: 1.6;">Web Development, UI/UX Design, Open Source</td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(0, 217, 255, 0.2);">
+<td style="padding: 12px 20px; color: #888; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; font-size: 14px;">Stack</td>
+<td style="padding: 12px 20px; color: #fff; line-height: 1.6;">React, Next.js, Node.js, Express, PostgreSQL, MongoDB</td>
+</tr>
+<tr style="border-bottom: 1px solid rgba(0, 217, 255, 0.2);">
+<td style="padding: 12px 20px; color: #888; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; font-size: 14px;">Email</td>
+<td style="padding: 12px 20px; color: #fff;"><a href="mailto:dibdibjoel4@gmail.com" style="color: #00D9FF; text-decoration: none;">dibdibjoel4@gmail.com</a></td>
+</tr>
+<tr>
+<td style="padding: 12px 20px; color: #888; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; font-size: 14px;">Location</td>
+<td style="padding: 12px 20px; color: #fff;">Philippines</td>
+</tr>
+</table>
 
 </div>
 
@@ -57,38 +67,38 @@ I'm a passionate Full Stack Developer & Designer from the Philippines. I special
 
 <div align="center">
 
-## 📊 GitHub Stats Dashboard
+## GitHub Stats Dashboard
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 25px 0;">
 
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center; transition: transform 0.3s; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.2);">
-  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">📁 Repositories</div>
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center;">
+  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">Repositories</div>
   <div style="font-size: 36px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 10px rgba(0, 217, 255, 0.5);">5</div>
 </div>
 
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center; transition: transform 0.3s; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.2);">
-  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">👥 Followers</div>
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center;">
+  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">Followers</div>
   <div style="font-size: 36px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 10px rgba(0, 217, 255, 0.5);">1</div>
 </div>
 
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center; transition: transform 0.3s; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.2);">
-  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">🤝 Following</div>
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center;">
+  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">Following</div>
   <div style="font-size: 36px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 10px rgba(0, 217, 255, 0.5);">0</div>
 </div>
 
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center; transition: transform 0.3s; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.2);">
-  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">⭐ Stars</div>
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center;">
+  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">Stars</div>
   <div style="font-size: 36px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 10px rgba(0, 217, 255, 0.5);">0</div>
 </div>
 
 </div>
 
-<h3 style="color: #fff; margin-top: 30px;">💻 Top Languages</h3>
+<h3 style="color: #fff; margin-top: 30px;">Top Languages</h3>
 
 <div style="margin-top: 20px; display: flex; flex-direction: column; gap: 15px; align-items: center;">
 
 <div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px; background: linear-gradient(135deg, rgba(247, 223, 30, 0.08) 0%, rgba(247, 223, 30, 0.02) 100%); padding: 12px 18px; border-radius: 12px; border: 1px solid rgba(247, 223, 30, 0.2);">
-  <span style="color: #F7DF1E; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">⚡ JavaScript</span>
+  <span style="color: #F7DF1E; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">JavaScript</span>
   <div style="flex: 1; background: rgba(255,255,255,0.03); height: 8px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(247, 223, 30, 0.15);">
     <div style="background: linear-gradient(90deg, #F7DF1E 0%, #FFE066 100%); width: 70%; height: 100%; border-radius: 10px;"></div>
   </div>
@@ -96,7 +106,7 @@ I'm a passionate Full Stack Developer & Designer from the Philippines. I special
 </div>
 
 <div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px; background: linear-gradient(135deg, rgba(227, 79, 38, 0.08) 0%, rgba(227, 79, 38, 0.02) 100%); padding: 12px 18px; border-radius: 12px; border: 1px solid rgba(227, 79, 38, 0.2);">
-  <span style="color: #E34F26; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">🌐 HTML</span>
+  <span style="color: #E34F26; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">HTML</span>
   <div style="flex: 1; background: rgba(255,255,255,0.03); height: 8px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(227, 79, 38, 0.15);">
     <div style="background: linear-gradient(90deg, #E34F26 0%, #FF7A47 100%); width: 20%; height: 100%; border-radius: 10px;"></div>
   </div>
@@ -104,7 +114,7 @@ I'm a passionate Full Stack Developer & Designer from the Philippines. I special
 </div>
 
 <div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px; background: linear-gradient(135deg, rgba(21, 114, 182, 0.08) 0%, rgba(21, 114, 182, 0.02) 100%); padding: 12px 18px; border-radius: 12px; border: 1px solid rgba(21, 114, 182, 0.2);">
-  <span style="color: #1572B6; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">🎨 CSS</span>
+  <span style="color: #1572B6; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">CSS</span>
   <div style="flex: 1; background: rgba(255,255,255,0.03); height: 8px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(21, 114, 182, 0.15);">
     <div style="background: linear-gradient(90deg, #1572B6 0%, #3B8ED4 100%); width: 10%; height: 100%; border-radius: 10px;"></div>
   </div>
@@ -123,7 +133,7 @@ I'm a passionate Full Stack Developer & Designer from the Philippines. I special
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
@@ -157,17 +167,17 @@ I'm a passionate Full Stack Developer & Designer from the Philippines. I special
 
 <div align="center">
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<div style="background: rgba(0, 217, 255, 0.05); padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid rgba(0, 217, 255, 0.2); transition: all 0.3s;">
+<div style="background: rgba(0, 217, 255, 0.05); padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid rgba(0, 217, 255, 0.2);">
 
-### 🎨 Personal Portfolio
+<h3 style="color: #00D9FF; margin-top: 0;">Personal Portfolio</h3>
 
-<div style="margin: 15px 0; color: #aaa; line-height: 1.6;">
+<p style="margin: 15px 0; color: #aaa; line-height: 1.6;">
 
 A modern, responsive personal portfolio website showcasing my work and skills. Built with cutting-edge technologies and best practices.
 
-</div>
+</p>
 
 <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
 
@@ -193,26 +203,23 @@ A modern, responsive personal portfolio website showcasing my work and skills. B
 
 <div align="center">
 
-## 📈 Activity & Goals
+## Activity & Goals
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
 
 <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 12px; border: 1px solid rgba(0, 217, 255, 0.2); min-width: 200px; text-align: center;">
-  <div style="font-size: 32px; margin-bottom: 10px;">🔭</div>
-  <div style="color: #00D9FF; font-weight: bold; margin-bottom: 5px;">Building</div>
-  <div style="color: #aaa; font-size: 14px;">Full-stack web applications</div>
+  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Building</div>
+  <div style="color: #fff; font-size: 14px;">Full-stack web applications</div>
 </div>
 
 <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 12px; border: 1px solid rgba(0, 217, 255, 0.2); min-width: 200px; text-align: center;">
-  <div style="font-size: 32px; margin-bottom: 10px;">🌱</div>
-  <div style="color: #00D9FF; font-weight: bold; margin-bottom: 5px;">Learning</div>
-  <div style="color: #aaa; font-size: 14px;">Modern frameworks & design</div>
+  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Learning</div>
+  <div style="color: #fff; font-size: 14px;">Modern frameworks & design</div>
 </div>
 
 <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 12px; border: 1px solid rgba(0, 217, 255, 0.2); min-width: 200px; text-align: center;">
-  <div style="font-size: 32px; margin-bottom: 10px;">💬</div>
-  <div style="color: #00D9FF; font-weight: bold; margin-bottom: 5px;">Ask Me About</div>
-  <div style="color: #aaa; font-size: 14px;">Web dev, UI/UX, creative coding</div>
+  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Ask Me About</div>
+  <div style="color: #fff; font-size: 14px;">Web dev, UI/UX, creative coding</div>
 </div>
 
 </div>
@@ -227,7 +234,7 @@ A modern, responsive personal portfolio website showcasing my work and skills. B
 
 <div align="center">
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
 
@@ -260,5 +267,5 @@ A modern, responsive personal portfolio website showcasing my work and skills. B
 </div>
 
 <div align="center" style="margin: 30px 0 20px 0;">
-  <sub>© 2024 Joel Dibdib. Built with ❤️ | <strong style="color: #00D9FF;">Keep Building, Keep Growing</strong></sub>
+  <sub>© 2024 Joel Dibdib. Built with passion | <strong style="color: #00D9FF;">Keep Building, Keep Growing</strong></sub>
 </div>

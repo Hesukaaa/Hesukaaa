@@ -95,6 +95,8 @@
 
 A modern personal portfolio website built with modern web technologies.
 
+<img src="https://i.imgur.com/NUk3tnT.jpeg" alt="Personal Portfolio Cover" style="max-width:100%; border-radius:12px; margin-bottom:12px;" />
+
 <a href="https://github.com/Hesukaaa/Personal-Portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hesukaaa&repo=Personal-Portfolio&theme=tokyonight&hide_border=true&show_description=true" />
 </a>

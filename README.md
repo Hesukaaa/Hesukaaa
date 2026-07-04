@@ -1,15 +1,37 @@
 <div align="center">
 
-# Hi there, I'm Joel Dibdib 👋
-
-### Full Stack Developer & Designer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20There!&fontSize=50&fontColor=ffffff&animation=blink&duration=3000" alt="Header" />
 
 </div>
 
 <div align="center">
-  <a href="https://personal-portfolio-joel-dibdib.vercel.app">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Joel%20Dibdib&fontSize=70&fontColor=ffffff&animation=blink&duration=3000" alt="Header" width="600" />
-  </a>
+
+# 👋 Hi, I'm Joel Dibdib
+
+### 🌟 Full Stack Developer & Designer | Turning ideas into elegant digital experiences
+
+</div>
+
+<div align="center">
+
+<a href="https://personal-portfolio-joel-dibdib.vercel.app">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Joel%20Dibdib&fontSize=75&fontColor=ffffff&animation=blink&duration=3000" alt="Hero" width="650" />
+</a>
+
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Full%20Stack%20Developer;UI/UX%20Enthusiast;Open%20Source%20Lover;Creative%20Thinker&duration=4000&repeat=always" alt="Typing SVG" />
+</div>
+
+---
+
+<div align="center">
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hesukaaa&show_icons=true&theme=tokyonight&hide_border=true)
+
 </div>
 
 <div align="center">
@@ -26,16 +48,25 @@
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### 🗄️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)
@@ -56,6 +87,19 @@
 A modern personal portfolio website built with modern web technologies.
 
 **Repo:** [Hesukaaa/Personal-Portfolio](https://github.com/Hesukaaa/Personal-Portfolio)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 Currently Learning
+
+- 🔭 Advanced full-stack architectures
+- 🌱 Modern frameworks and design patterns
+- 💬 Web Development, UI/UX, and creative coding
+- ⚡ Building things that live on the internet
 
 </div>
 
@@ -86,7 +130,7 @@ A modern personal portfolio website built with modern web technologies.
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer" />
 </div>
 
 <div align="center">

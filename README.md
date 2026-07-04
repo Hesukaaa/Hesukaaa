@@ -101,28 +101,6 @@ A modern personal portfolio website built with modern web technologies.
 
 </div>
 
-<div align="center">
-
-### 💼 Portfolio
-A portfolio project showcasing skills and experience.
-
-<a href="https://github.com/Hesukaaa/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hesukaaa&repo=Portfolio&theme=tokyonight&hide_border=true&show_description=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-### 🌐 My Portfolio
-A simple yet elegant HTML portfolio.
-
-<a href="https://github.com/Hesukaaa/My-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hesukaaa&repo=My-Portfolio&theme=tokyonight&hide_border=true&show_description=true" />
-</a>
-
-</div>
-
 ---
 
 ## 🎯 Current Focus

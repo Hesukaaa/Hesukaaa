@@ -125,63 +125,25 @@ I'm a passionate Full Stack Developer & Designer from the Philippines. I special
 
 ## 🛠️ Tech Stack
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin-top: 20px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
-<div style="background: rgba(247, 223, 30, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(247, 223, 30, 0.3); transition: all 0.3s;">
-  <span style="color: #F7DF1E; font-weight: bold;">⚡ JavaScript</span>
-</div>
-
-<div style="background: rgba(227, 79, 38, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(227, 79, 38, 0.3); transition: all 0.3s;">
-  <span style="color: #E34F26; font-weight: bold;">🌐 HTML5</span>
-</div>
-
-<div style="background: rgba(21, 114, 182, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(21, 114, 182, 0.3); transition: all 0.3s;">
-  <span style="color: #1572B6; font-weight: bold;">🎨 CSS3</span>
-</div>
-
-<div style="background: rgba(32, 178, 170, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(32, 178, 170, 0.3); transition: all 0.3s;">
-  <span style="color: #38B2AC; font-weight: bold;">💨 Tailwind</span>
-</div>
-
-<div style="background: rgba(97, 218, 251, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(97, 218, 251, 0.3); transition: all 0.3s;">
-  <span style="color: #61DAFB; font-weight: bold;">⚛️ React</span>
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(255, 255, 255, 0.2); transition: all 0.3s;">
-  <span style="color: #fff; font-weight: bold;">▲ Next.js</span>
-</div>
-
-<div style="background: rgba(51, 153, 51, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(51, 153, 51, 0.3); transition: all 0.3s;">
-  <span style="color: #339933; font-weight: bold;">🟢 Node.js</span>
-</div>
-
-<div style="background: rgba(0, 0, 0, 0.3); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(255, 255, 255, 0.2); transition: all 0.3s;">
-  <span style="color: #fff; font-weight: bold;">🚂 Express</span>
-</div>
-
-<div style="background: rgba(49, 110, 176, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(49, 110, 176, 0.3); transition: all 0.3s;">
-  <span style="color: #316192; font-weight: bold;">🐘 PostgreSQL</span>
-</div>
-
-<div style="background: rgba(78, 169, 75, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(78, 169, 75, 0.3); transition: all 0.3s;">
-  <span style="color: #4EA94B; font-weight: bold;">🍃 MongoDB</span>
-</div>
-
-<div style="background: rgba(240, 80, 50, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(240, 80, 50, 0.3); transition: all 0.3s;">
-  <span style="color: #F05032; font-weight: bold;">📦 Git</span>
-</div>
-
-<div style="background: rgba(36, 150, 237, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(36, 150, 237, 0.3); transition: all 0.3s;">
-  <span style="color: #2496ED; font-weight: bold;">🐳 Docker</span>
-</div>
-
-<div style="background: rgba(0, 122, 204, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(0, 122, 204, 0.3); transition: all 0.3s;">
-  <span style="color: #007ACC; font-weight: bold;">💻 VS Code</span>
-</div>
-
-<div style="background: rgba(242, 78, 30, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(242, 78, 30, 0.3); transition: all 0.3s;">
-  <span style="color: #F24E1E; font-weight: bold;">🎯 Figma</span>
-</div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/AWS_Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
 
 </div>
 

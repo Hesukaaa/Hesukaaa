@@ -87,26 +87,26 @@ I'm a passionate Full Stack Developer & Designer from the Philippines. I special
 
 <div style="margin-top: 20px; display: flex; flex-direction: column; gap: 15px; align-items: center;">
 
-<div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px;">
-  <span style="color: #fff; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">JavaScript</span>
-  <div style="flex: 1; background: rgba(255,255,255,0.05); height: 24px; border-radius: 12px; overflow: hidden; border: 1px solid rgba(0, 217, 255, 0.2);">
-    <div style="background: linear-gradient(90deg, #00D9FF 0%, #0099FF 100%); width: 70%; height: 100%; border-radius: 12px; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; box-shadow: 0 0 10px rgba(0, 217, 255, 0.5);"></div>
+<div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px; background: linear-gradient(135deg, rgba(247, 223, 30, 0.08) 0%, rgba(247, 223, 30, 0.02) 100%); padding: 12px 18px; border-radius: 12px; border: 1px solid rgba(247, 223, 30, 0.2);">
+  <span style="color: #F7DF1E; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">⚡ JavaScript</span>
+  <div style="flex: 1; background: rgba(255,255,255,0.03); height: 8px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(247, 223, 30, 0.15);">
+    <div style="background: linear-gradient(90deg, #F7DF1E 0%, #FFE066 100%); width: 70%; height: 100%; border-radius: 10px;"></div>
   </div>
-  <span style="color: #00D9FF; font-weight: bold; min-width: 45px; text-align: left; font-size: 14px;">70%</span>
+  <span style="color: #F7DF1E; font-weight: bold; min-width: 45px; text-align: left; font-size: 14px;">70%</span>
 </div>
 
-<div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px;">
-  <span style="color: #fff; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">HTML</span>
-  <div style="flex: 1; background: rgba(255,255,255,0.05); height: 24px; border-radius: 12px; overflow: hidden; border: 1px solid rgba(227, 79, 38, 0.2);">
-    <div style="background: linear-gradient(90deg, #E34F26 0%, #FF6B35 100%); width: 20%; height: 100%; border-radius: 12px; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; box-shadow: 0 0 10px rgba(227, 79, 38, 0.5);"></div>
+<div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px; background: linear-gradient(135deg, rgba(227, 79, 38, 0.08) 0%, rgba(227, 79, 38, 0.02) 100%); padding: 12px 18px; border-radius: 12px; border: 1px solid rgba(227, 79, 38, 0.2);">
+  <span style="color: #E34F26; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">🌐 HTML</span>
+  <div style="flex: 1; background: rgba(255,255,255,0.03); height: 8px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(227, 79, 38, 0.15);">
+    <div style="background: linear-gradient(90deg, #E34F26 0%, #FF7A47 100%); width: 20%; height: 100%; border-radius: 10px;"></div>
   </div>
   <span style="color: #E34F26; font-weight: bold; min-width: 45px; text-align: left; font-size: 14px;">20%</span>
 </div>
 
-<div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px;">
-  <span style="color: #fff; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">CSS</span>
-  <div style="flex: 1; background: rgba(255,255,255,0.05); height: 24px; border-radius: 12px; overflow: hidden; border: 1px solid rgba(21, 114, 182, 0.2);">
-    <div style="background: linear-gradient(90deg, #1572B6 0%, #2094F3 100%); width: 10%; height: 100%; border-radius: 12px; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; box-shadow: 0 0 10px rgba(21, 114, 182, 0.5);"></div>
+<div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px; background: linear-gradient(135deg, rgba(21, 114, 182, 0.08) 0%, rgba(21, 114, 182, 0.02) 100%); padding: 12px 18px; border-radius: 12px; border: 1px solid rgba(21, 114, 182, 0.2);">
+  <span style="color: #1572B6; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">🎨 CSS</span>
+  <div style="flex: 1; background: rgba(255,255,255,0.03); height: 8px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(21, 114, 182, 0.15);">
+    <div style="background: linear-gradient(90deg, #1572B6 0%, #3B8ED4 100%); width: 10%; height: 100%; border-radius: 10px;"></div>
   </div>
   <span style="color: #1572B6; font-weight: bold; min-width: 45px; text-align: left; font-size: 14px;">10%</span>
 </div>

@@ -94,13 +94,6 @@
 
 ![Contribution Graph](https://ghchart.rshah.org/00D9FF/Hesukaaa)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hesukaaa&theme=tokyonight&no-bg=true&row=1&column=5" alt="GitHub Trophies" />
-
-</div>
 
 </div>
 

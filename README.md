@@ -1,165 +1,273 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20There!&fontSize=50&fontColor=ffffff&animation=blink&duration=3000" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Joel%20Dibdib&fontSize=90&fontColor=ffffff&animation=blink&duration=3000" alt="Header" />
 
 </div>
+
+<div align="center" style="margin: 30px 0;">
+
+# ✨ Hi, I'm Joel Dibdib
+
+### 🎨 Full Stack Developer & UI/UX Designer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Building%20Digital%20Experiences;Creating%20Beautiful%20Interfaces;Open%20Source%20Contributor&duration=4000&repeat=always" alt="Typing" />
+
+</div>
+
+<div align="center" style="margin: 20px 0;">
+
+[<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />](https://personal-portfolio-joel-dibdib.vercel.app)
+[<img src="https://img.shields.io/badge/Contact-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />](mailto:dibdibjoel4@gmail.com)
+[<img src="https://img.shields.io/badge/Location-Philippines-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />](https://www.google.com/maps/place/Philippines)
+
+</div>
+
+</div>
+
+<br/>
+
+<div style="background: linear-gradient(135deg, rgba(15, 15, 30, 0.9) 0%, rgba(22, 33, 62, 0.9) 100%); padding: 30px; border-radius: 20px; margin: 30px 0; border: 1px solid rgba(0, 217, 255, 0.2); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(0, 217, 255, 0.1);">
 
 <div align="center">
 
-# 👋 Hi, I'm Joel Dibdib
+## 👨‍💻 About Me
 
-### 🌟 Full Stack Developer & Designer | Turning ideas into elegant digital experiences
+<div style="background: rgba(0, 217, 255, 0.05); padding: 20px; border-radius: 12px; margin: 20px 0; border-left: 4px solid #00D9FF;">
+
+I'm a passionate Full Stack Developer & Designer from the Philippines. I specialize in creating elegant, high-quality digital experiences that combine beautiful design with robust functionality.
 
 </div>
+
+| 🎯 **Focus** | 💡 **Details** |
+|-------------|---------------|
+| 🌐 **Web Development** | React, Next.js, Node.js, Express |
+| 🎨 **UI/UX Design** | Figma, Tailwind CSS, Modern Design Systems |
+| 🗄️ **Database** | PostgreSQL, MongoDB |
+| 🛠️ **Tools** | Git, Docker, VS Code |
+| 📧 **Email** | [dibdibjoel4@gmail.com](mailto:dibdibjoel4@gmail.com) |
+| 📍 **Location** | Philippines |
+
+</div>
+
+</div>
+
+<br/>
+
+<div style="background: linear-gradient(135deg, rgba(15, 15, 30, 0.9) 0%, rgba(26, 26, 46, 0.9) 100%); padding: 30px; border-radius: 20px; margin: 30px 0; border: 1px solid rgba(0, 217, 255, 0.2); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(0, 217, 255, 0.1);">
 
 <div align="center">
 
-<a href="https://personal-portfolio-joel-dibdib.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Joel%20Dibdib&fontSize=75&fontColor=ffffff&animation=blink&duration=3000" alt="Hero" width="650" />
-</a>
+## 📊 GitHub Stats Dashboard
 
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 25px 0;">
+
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center; transition: transform 0.3s; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.2);">
+  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">📁 Repositories</div>
+  <div style="font-size: 36px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 10px rgba(0, 217, 255, 0.5);">5</div>
 </div>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Full%20Stack%20Developer;UI/UX%20Enthusiast;Open%20Source%20Lover;Creative%20Thinker&duration=4000&repeat=always" alt="Typing SVG" />
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center; transition: transform 0.3s; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.2);">
+  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">👥 Followers</div>
+  <div style="font-size: 36px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 10px rgba(0, 217, 255, 0.5);">1</div>
 </div>
 
----
-
-<div style="background: linear-gradient(135deg, #0f0f1e 0%, #16213e 100%); padding: 25px; border-radius: 12px; margin: 20px 0; border: 1px solid #00D9FF33;">
-
-<h2 align="center" style="color: #00D9FF; margin-top: 0;">📊 GitHub Stats Dashboard</h2>
-
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
-
-<div style="background: rgba(255,255,255,0.05); padding: 15px 25px; border-radius: 10px; border: 1px solid #00D9FF33; min-width: 140px;">
-  <div style="color: #888; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">📁 Repositories</div>
-  <div style="font-size: 28px; font-weight: bold; color: #00D9FF;">5</div>
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center; transition: transform 0.3s; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.2);">
+  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">🤝 Following</div>
+  <div style="font-size: 36px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 10px rgba(0, 217, 255, 0.5);">0</div>
 </div>
 
-<div style="background: rgba(255,255,255,0.05); padding: 15px 25px; border-radius: 10px; border: 1px solid #00D9FF33; min-width: 140px;">
-  <div style="color: #888; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">👥 Followers</div>
-  <div style="font-size: 28px; font-weight: bold; color: #00D9FF;">1</div>
-</div>
-
-<div style="background: rgba(255,255,255,0.05); padding: 15px 25px; border-radius: 10px; border: 1px solid #00D9FF33; min-width: 140px;">
-  <div style="color: #888; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">🤝 Following</div>
-  <div style="font-size: 28px; font-weight: bold; color: #00D9FF;">0</div>
-</div>
-
-<div style="background: rgba(255,255,255,0.05); padding: 15px 25px; border-radius: 10px; border: 1px solid #00D9FF33; min-width: 140px;">
-  <div style="color: #888; font-size: 12px; text-transform: uppercase; letter-spacing: 1px;">⭐ Total Stars</div>
-  <div style="font-size: 28px; font-weight: bold; color: #00D9FF;">0</div>
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center; transition: transform 0.3s; box-shadow: 0 4px 15px rgba(0, 217, 255, 0.2);">
+  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">⭐ Stars</div>
+  <div style="font-size: 36px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 10px rgba(0, 217, 255, 0.5);">0</div>
 </div>
 
 </div>
 
-<h3 align="center" style="color: #fff;">💻 Top Languages</h3>
+<h3 style="color: #fff; margin-top: 30px;">💻 Top Languages</h3>
 
-<div align="center" style="margin-top: 15px;">
+<div style="margin-top: 20px; display: flex; flex-direction: column; gap: 15px; align-items: center;">
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 5px 0;">
-  <span style="color: #fff; font-weight: bold;">JavaScript</span>
-  <div style="background: #222; width: 200px; height: 12px; border-radius: 6px; overflow: hidden;">
-    <div style="background: #00D9FF; width: 70%; height: 100%; border-radius: 6px;"></div>
+<div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px;">
+  <span style="color: #fff; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">JavaScript</span>
+  <div style="flex: 1; background: rgba(255,255,255,0.05); height: 24px; border-radius: 12px; overflow: hidden; border: 1px solid rgba(0, 217, 255, 0.2);">
+    <div style="background: linear-gradient(90deg, #00D9FF 0%, #0099FF 100%); width: 70%; height: 100%; border-radius: 12px; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; box-shadow: 0 0 10px rgba(0, 217, 255, 0.5);"></div>
   </div>
-  <span style="color: #00D9FF; font-weight: bold;">70%</span>
+  <span style="color: #00D9FF; font-weight: bold; min-width: 45px; text-align: left; font-size: 14px;">70%</span>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 5px 0;">
-  <span style="color: #fff; font-weight: bold;">HTML</span>
-  <div style="background: #222; width: 200px; height: 12px; border-radius: 6px; overflow: hidden;">
-    <div style="background: #E34F26; width: 20%; height: 100%; border-radius: 6px;"></div>
+<div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px;">
+  <span style="color: #fff; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">HTML</span>
+  <div style="flex: 1; background: rgba(255,255,255,0.05); height: 24px; border-radius: 12px; overflow: hidden; border: 1px solid rgba(227, 79, 38, 0.2);">
+    <div style="background: linear-gradient(90deg, #E34F26 0%, #FF6B35 100%); width: 20%; height: 100%; border-radius: 12px; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; box-shadow: 0 0 10px rgba(227, 79, 38, 0.5);"></div>
   </div>
-  <span style="color: #E34F26; font-weight: bold;">20%</span>
+  <span style="color: #E34F26; font-weight: bold; min-width: 45px; text-align: left; font-size: 14px;">20%</span>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 5px 0;">
-  <span style="color: #fff; font-weight: bold;">CSS</span>
-  <div style="background: #222; width: 200px; height: 12px; border-radius: 6px; overflow: hidden;">
-    <div style="background: #1572B6; width: 10%; height: 100%; border-radius: 6px;"></div>
+<div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px;">
+  <span style="color: #fff; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">CSS</span>
+  <div style="flex: 1; background: rgba(255,255,255,0.05); height: 24px; border-radius: 12px; overflow: hidden; border: 1px solid rgba(21, 114, 182, 0.2);">
+    <div style="background: linear-gradient(90deg, #1572B6 0%, #2094F3 100%); width: 10%; height: 100%; border-radius: 12px; display: flex; align-items: center; justify-content: flex-end; padding-right: 10px; box-shadow: 0 0 10px rgba(21, 114, 182, 0.5);"></div>
   </div>
-  <span style="color: #1572B6; font-weight: bold;">10%</span>
+  <span style="color: #1572B6; font-weight: bold; min-width: 45px; text-align: left; font-size: 14px;">10%</span>
 </div>
 
 </div>
 
 </div>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-joel-dibdib.vercel.app)
-[![GitHub followers](https://img.shields.io/github/followers/Hesukaaa?style=for-the-badge&color=00D9FF)](https://github.com/Hesukaaa?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=Hesukaaa&style=for-the-badge&color=00D9FF)](https://github.com/Hesukaaa)
-
 </div>
 
----
+<br/>
+
+<div style="background: linear-gradient(135deg, rgba(22, 33, 62, 0.9) 0%, rgba(15, 30, 50, 0.9) 100%); padding: 30px; border-radius: 20px; margin: 30px 0; border: 1px solid rgba(0, 217, 255, 0.2); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(0, 217, 255, 0.1);">
 
 <div align="center">
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin-top: 20px;">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<div style="background: rgba(247, 223, 30, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(247, 223, 30, 0.3); transition: all 0.3s;">
+  <span style="color: #F7DF1E; font-weight: bold;">⚡ JavaScript</span>
+</div>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+<div style="background: rgba(227, 79, 38, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(227, 79, 38, 0.3); transition: all 0.3s;">
+  <span style="color: #E34F26; font-weight: bold;">🌐 HTML5</span>
+</div>
 
-### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+<div style="background: rgba(21, 114, 182, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(21, 114, 182, 0.3); transition: all 0.3s;">
+  <span style="color: #1572B6; font-weight: bold;">🎨 CSS3</span>
+</div>
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<div style="background: rgba(32, 178, 170, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(32, 178, 170, 0.3); transition: all 0.3s;">
+  <span style="color: #38B2AC; font-weight: bold;">💨 Tailwind</span>
+</div>
+
+<div style="background: rgba(97, 218, 251, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(97, 218, 251, 0.3); transition: all 0.3s;">
+  <span style="color: #61DAFB; font-weight: bold;">⚛️ React</span>
+</div>
+
+<div style="background: rgba(255, 255, 255, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(255, 255, 255, 0.2); transition: all 0.3s;">
+  <span style="color: #fff; font-weight: bold;">▲ Next.js</span>
+</div>
+
+<div style="background: rgba(51, 153, 51, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(51, 153, 51, 0.3); transition: all 0.3s;">
+  <span style="color: #339933; font-weight: bold;">🟢 Node.js</span>
+</div>
+
+<div style="background: rgba(0, 0, 0, 0.3); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(255, 255, 255, 0.2); transition: all 0.3s;">
+  <span style="color: #fff; font-weight: bold;">🚂 Express</span>
+</div>
+
+<div style="background: rgba(49, 110, 176, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(49, 110, 176, 0.3); transition: all 0.3s;">
+  <span style="color: #316192; font-weight: bold;">🐘 PostgreSQL</span>
+</div>
+
+<div style="background: rgba(78, 169, 75, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(78, 169, 75, 0.3); transition: all 0.3s;">
+  <span style="color: #4EA94B; font-weight: bold;">🍃 MongoDB</span>
+</div>
+
+<div style="background: rgba(240, 80, 50, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(240, 80, 50, 0.3); transition: all 0.3s;">
+  <span style="color: #F05032; font-weight: bold;">📦 Git</span>
+</div>
+
+<div style="background: rgba(36, 150, 237, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(36, 150, 237, 0.3); transition: all 0.3s;">
+  <span style="color: #2496ED; font-weight: bold;">🐳 Docker</span>
+</div>
+
+<div style="background: rgba(0, 122, 204, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(0, 122, 204, 0.3); transition: all 0.3s;">
+  <span style="color: #007ACC; font-weight: bold;">💻 VS Code</span>
+</div>
+
+<div style="background: rgba(242, 78, 30, 0.1); padding: 10px 18px; border-radius: 25px; border: 1px solid rgba(242, 78, 30, 0.3); transition: all 0.3s;">
+  <span style="color: #F24E1E; font-weight: bold;">🎯 Figma</span>
+</div>
 
 </div>
 
----
+</div>
+
+</div>
+
+<br/>
+
+<div style="background: linear-gradient(135deg, rgba(26, 26, 46, 0.9) 0%, rgba(15, 52, 96, 0.9) 100%); padding: 30px; border-radius: 20px; margin: 30px 0; border: 1px solid rgba(0, 217, 255, 0.2); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(0, 217, 255, 0.1);">
 
 <div align="center">
 
 ## 🚀 Featured Projects
 
+<div style="background: rgba(0, 217, 255, 0.05); padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid rgba(0, 217, 255, 0.2); transition: all 0.3s;">
+
 ### 🎨 Personal Portfolio
 
-**Live:** [personal-portfolio-joel-dibdib.vercel.app](https://personal-portfolio-joel-dibdib.vercel.app)
+<div style="margin: 15px 0; color: #aaa; line-height: 1.6;">
 
-A modern personal portfolio website built with modern web technologies.
-
-**Repo:** [Hesukaaa/Personal-Portfolio](https://github.com/Hesukaaa/Personal-Portfolio)
+A modern, responsive personal portfolio website showcasing my work and skills. Built with cutting-edge technologies and best practices.
 
 </div>
 
----
+<div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px; flex-wrap: wrap;">
+
+<a href="https://personal-portfolio-joel-dibdib.vercel.app">
+  <img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+
+<a href="https://github.com/Hesukaaa/Personal-Portfolio">
+  <img src="https://img.shields.io/badge/View%20Code-333?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<br/>
+
+<div style="background: linear-gradient(135deg, rgba(15, 52, 96, 0.9) 0%, rgba(83, 52, 131, 0.9) 100%); padding: 30px; border-radius: 20px; margin: 30px 0; border: 1px solid rgba(0, 217, 255, 0.2); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(0, 217, 255, 0.1);">
 
 <div align="center">
 
-## 🌱 Currently Learning
+## 📈 Activity & Goals
 
-- 🔭 Advanced full-stack architectures
-- 🌱 Modern frameworks and design patterns
-- 💬 Web Development, UI/UX, and creative coding
-- ⚡ Building things that live on the internet
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+
+<div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 12px; border: 1px solid rgba(0, 217, 255, 0.2); min-width: 200px; text-align: center;">
+  <div style="font-size: 32px; margin-bottom: 10px;">🔭</div>
+  <div style="color: #00D9FF; font-weight: bold; margin-bottom: 5px;">Building</div>
+  <div style="color: #aaa; font-size: 14px;">Full-stack web applications</div>
+</div>
+
+<div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 12px; border: 1px solid rgba(0, 217, 255, 0.2); min-width: 200px; text-align: center;">
+  <div style="font-size: 32px; margin-bottom: 10px;">🌱</div>
+  <div style="color: #00D9FF; font-weight: bold; margin-bottom: 5px;">Learning</div>
+  <div style="color: #aaa; font-size: 14px;">Modern frameworks & design</div>
+</div>
+
+<div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 12px; border: 1px solid rgba(0, 217, 255, 0.2); min-width: 200px; text-align: center;">
+  <div style="font-size: 32px; margin-bottom: 10px;">💬</div>
+  <div style="color: #00D9FF; font-weight: bold; margin-bottom: 5px;">Ask Me About</div>
+  <div style="color: #aaa; font-size: 14px;">Web dev, UI/UX, creative coding</div>
+</div>
 
 </div>
 
----
+</div>
+
+</div>
+
+<br/>
+
+<div style="background: linear-gradient(135deg, rgba(15, 15, 30, 0.9) 0%, rgba(83, 52, 131, 0.9) 100%); padding: 30px; border-radius: 20px; margin: 30px 0; border: 1px solid rgba(0, 217, 255, 0.2); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(0, 217, 255, 0.1);">
 
 <div align="center">
 
 ## 🤝 Connect With Me
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
 
 <a href="https://www.facebook.com/joel.dib">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -179,12 +287,16 @@ A modern personal portfolio website built with modern web technologies.
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer" />
 </div>
 
+</div>
+
+<br/>
+
 <div align="center">
-  <sub>© 2024 Joel Dibdib. Built with ❤️ | **Keep Building, Keep Growing**</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer" />
+</div>
+
+<div align="center" style="margin: 30px 0 20px 0;">
+  <sub>© 2024 Joel Dibdib. Built with ❤️ | <strong style="color: #00D9FF;">Keep Building, Keep Growing</strong></sub>
 </div>

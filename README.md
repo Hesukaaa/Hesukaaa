@@ -28,7 +28,7 @@
 
 <div align="center" style="margin: 20px 0;">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hesukaaa&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
 
 </div>
 

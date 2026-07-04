@@ -6,8 +6,9 @@
 
 <div align="center" style="margin: 30px 0;">
 
+# Joel Dibdib
 
-
+### Full Stack Developer & UI/UX Designer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Building%20Digital%20Experiences;Creating%20Beautiful%20Interfaces;Open%20Source%20Contributor&duration=4000&repeat=always" alt="Typing" />
 
@@ -62,62 +63,66 @@ I'm a passionate Full Stack Developer & Designer from the Philippines. I special
 
 <br/>
 
-<div style="background: linear-gradient(135deg, rgba(15, 15, 30, 0.9) 0%, rgba(26, 26, 46, 0.9) 100%); padding: 30px; border-radius: 20px; margin: 30px 0; border: 1px solid rgba(0, 217, 255, 0.2); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(0, 217, 255, 0.1);">
+<div style="background: linear-gradient(135deg, rgba(15, 15, 30, 0.9) 0%, rgba(26, 26, 46, 0.9) 100%); padding: 35px; border-radius: 20px; margin: 30px 0; border: 1px solid rgba(0, 217, 255, 0.25); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(0, 217, 255, 0.15);">
 
 <div align="center">
 
 ## GitHub Stats Dashboard
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 25px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 18px; margin: 30px 0; max-width: 900px; margin-left: auto; margin-right: auto;">
 
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center;">
-  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">Repositories</div>
-  <div style="font-size: 36px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 10px rgba(0, 217, 255, 0.5);">5</div>
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.12) 0%, rgba(0, 217, 255, 0.03) 100%); padding: 22px 18px; border-radius: 16px; border: 1px solid rgba(0, 217, 255, 0.35); text-align: center; box-shadow: 0 6px 20px rgba(0, 217, 255, 0.15);">
+  <div style="font-size: 13px; color: #aaa; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; font-weight: 600;">Repositories</div>
+  <div style="font-size: 40px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 12px rgba(0, 217, 255, 0.6); line-height: 1;">5</div>
 </div>
 
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center;">
-  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">Followers</div>
-  <div style="font-size: 36px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 10px rgba(0, 217, 255, 0.5);">1</div>
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.12) 0%, rgba(0, 217, 255, 0.03) 100%); padding: 22px 18px; border-radius: 16px; border: 1px solid rgba(0, 217, 255, 0.35); text-align: center; box-shadow: 0 6px 20px rgba(0, 217, 255, 0.15);">
+  <div style="font-size: 13px; color: #aaa; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; font-weight: 600;">Followers</div>
+  <div style="font-size: 40px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 12px rgba(0, 217, 255, 0.6); line-height: 1;">1</div>
 </div>
 
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center;">
-  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">Following</div>
-  <div style="font-size: 36px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 10px rgba(0, 217, 255, 0.5);">0</div>
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.12) 0%, rgba(0, 217, 255, 0.03) 100%); padding: 22px 18px; border-radius: 16px; border: 1px solid rgba(0, 217, 255, 0.35); text-align: center; box-shadow: 0 6px 20px rgba(0, 217, 255, 0.15);">
+  <div style="font-size: 13px; color: #aaa; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; font-weight: 600;">Following</div>
+  <div style="font-size: 40px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 12px rgba(0, 217, 255, 0.6); line-height: 1;">0</div>
 </div>
 
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); padding: 20px 30px; border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3); min-width: 160px; text-align: center;">
-  <div style="font-size: 14px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px;">Stars</div>
-  <div style="font-size: 36px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 10px rgba(0, 217, 255, 0.5);">0</div>
+<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.12) 0%, rgba(0, 217, 255, 0.03) 100%); padding: 22px 18px; border-radius: 16px; border: 1px solid rgba(0, 217, 255, 0.35); text-align: center; box-shadow: 0 6px 20px rgba(0, 217, 255, 0.15);">
+  <div style="font-size: 13px; color: #aaa; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; font-weight: 600;">Stars</div>
+  <div style="font-size: 40px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 12px rgba(0, 217, 255, 0.6); line-height: 1;">0</div>
 </div>
 
 </div>
 
-<h3 style="color: #fff; margin-top: 30px;">Top Languages</h3>
+<div style="background: rgba(0, 217, 255, 0.04); padding: 22px 24px; border-radius: 14px; border: 1px solid rgba(0, 217, 255, 0.2); max-width: 520px; margin: 0 auto; box-shadow: inset 0 0 18px rgba(0, 217, 255, 0.05);">
 
-<div style="margin-top: 20px; display: flex; flex-direction: column; gap: 15px; align-items: center;">
+<h3 style="color: #00D9FF; margin: 0 0 18px 0; font-size: 18px; letter-spacing: 0.5px;">Top Languages</h3>
 
-<div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px; background: linear-gradient(135deg, rgba(247, 223, 30, 0.08) 0%, rgba(247, 223, 30, 0.02) 100%); padding: 12px 18px; border-radius: 12px; border: 1px solid rgba(247, 223, 30, 0.2);">
-  <span style="color: #F7DF1E; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">JavaScript</span>
-  <div style="flex: 1; background: rgba(255,255,255,0.03); height: 8px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(247, 223, 30, 0.15);">
-    <div style="background: linear-gradient(90deg, #F7DF1E 0%, #FFE066 100%); width: 70%; height: 100%; border-radius: 10px;"></div>
+<div style="display: flex; flex-direction: column; gap: 14px;">
+
+<div style="display: flex; align-items: center; gap: 14px;">
+  <span style="color: #F7DF1E; font-weight: bold; min-width: 110px; text-align: right; font-size: 14px; letter-spacing: 0.3px;">JavaScript</span>
+  <div style="flex: 1; background: rgba(255,255,255,0.04); height: 10px; border-radius: 12px; overflow: hidden; border: 1px solid rgba(247, 223, 30, 0.25); box-shadow: inset 0 0 6px rgba(0,0,0,0.3);">
+    <div style="background: linear-gradient(90deg, #F7DF1E 0%, #FFE066 100%); width: 70%; height: 100%; border-radius: 12px; box-shadow: 0 0 8px rgba(247, 223, 30, 0.4);"></div>
   </div>
-  <span style="color: #F7DF1E; font-weight: bold; min-width: 45px; text-align: left; font-size: 14px;">70%</span>
+  <span style="color: #F7DF1E; font-weight: bold; min-width: 42px; text-align: left; font-size: 14px;">70%</span>
 </div>
 
-<div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px; background: linear-gradient(135deg, rgba(227, 79, 38, 0.08) 0%, rgba(227, 79, 38, 0.02) 100%); padding: 12px 18px; border-radius: 12px; border: 1px solid rgba(227, 79, 38, 0.2);">
-  <span style="color: #E34F26; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">HTML</span>
-  <div style="flex: 1; background: rgba(255,255,255,0.03); height: 8px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(227, 79, 38, 0.15);">
-    <div style="background: linear-gradient(90deg, #E34F26 0%, #FF7A47 100%); width: 20%; height: 100%; border-radius: 10px;"></div>
+<div style="display: flex; align-items: center; gap: 14px;">
+  <span style="color: #E34F26; font-weight: bold; min-width: 110px; text-align: right; font-size: 14px; letter-spacing: 0.3px;">HTML</span>
+  <div style="flex: 1; background: rgba(255,255,255,0.04); height: 10px; border-radius: 12px; overflow: hidden; border: 1px solid rgba(227, 79, 38, 0.25); box-shadow: inset 0 0 6px rgba(0,0,0,0.3);">
+    <div style="background: linear-gradient(90deg, #E34F26 0%, #FF7A47 100%); width: 20%; height: 100%; border-radius: 12px; box-shadow: 0 0 8px rgba(227, 79, 38, 0.4);"></div>
   </div>
-  <span style="color: #E34F26; font-weight: bold; min-width: 45px; text-align: left; font-size: 14px;">20%</span>
+  <span style="color: #E34F26; font-weight: bold; min-width: 42px; text-align: left; font-size: 14px;">20%</span>
 </div>
 
-<div style="display: flex; align-items: center; gap: 15px; width: 100%; max-width: 400px; background: linear-gradient(135deg, rgba(21, 114, 182, 0.08) 0%, rgba(21, 114, 182, 0.02) 100%); padding: 12px 18px; border-radius: 12px; border: 1px solid rgba(21, 114, 182, 0.2);">
-  <span style="color: #1572B6; font-weight: bold; min-width: 100px; text-align: right; font-size: 14px;">CSS</span>
-  <div style="flex: 1; background: rgba(255,255,255,0.03); height: 8px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(21, 114, 182, 0.15);">
-    <div style="background: linear-gradient(90deg, #1572B6 0%, #3B8ED4 100%); width: 10%; height: 100%; border-radius: 10px;"></div>
+<div style="display: flex; align-items: center; gap: 14px;">
+  <span style="color: #1572B6; font-weight: bold; min-width: 110px; text-align: right; font-size: 14px; letter-spacing: 0.3px;">CSS</span>
+  <div style="flex: 1; background: rgba(255,255,255,0.04); height: 10px; border-radius: 12px; overflow: hidden; border: 1px solid rgba(21, 114, 182, 0.25); box-shadow: inset 0 0 6px rgba(0,0,0,0.3);">
+    <div style="background: linear-gradient(90deg, #1572B6 0%, #3B8ED4 100%); width: 10%; height: 100%; border-radius: 12px; box-shadow: 0 0 8px rgba(21, 114, 182, 0.4);"></div>
   </div>
-  <span style="color: #1572B6; font-weight: bold; min-width: 45px; text-align: left; font-size: 14px;">10%</span>
+  <span style="color: #1572B6; font-weight: bold; min-width: 42px; text-align: left; font-size: 14px;">10%</span>
+</div>
+
 </div>
 
 </div>

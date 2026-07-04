@@ -73,49 +73,7 @@ I'm a passionate Full Stack Developer & Designer from the Philippines. I special
 
 <br/>
 
-<div style="background: linear-gradient(135deg, rgba(15, 15, 30, 0.9) 0%, rgba(26, 26, 46, 0.9) 100%); padding: 35px; border-radius: 20px; margin: 30px 0; border: 1px solid rgba(0, 217, 255, 0.25); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(0, 217, 255, 0.15);">
 
-
-
-<div style="background: rgba(0, 217, 255, 0.04); padding: 22px 24px; border-radius: 14px; border: 1px solid rgba(0, 217, 255, 0.2); max-width: 520px; margin: 0 auto; box-shadow: inset 0 0 18px rgba(0, 217, 255, 0.05);">
-
-<h3 style="color: #00D9FF; margin: 0 0 18px 0; font-size: 18px; letter-spacing: 0.5px;">Top Languages</h3>
-
-<div style="display: flex; flex-direction: column; gap: 14px;">
-
-<div style="display: flex; align-items: center; gap: 14px;">
-  <span style="color: #F7DF1E; font-weight: bold; min-width: 110px; text-align: right; font-size: 14px; letter-spacing: 0.3px;">JavaScript</span>
-  <div style="flex: 1; background: rgba(255,255,255,0.04); height: 10px; border-radius: 12px; overflow: hidden; border: 1px solid rgba(247, 223, 30, 0.25); box-shadow: inset 0 0 6px rgba(0,0,0,0.3);">
-    <div style="background: linear-gradient(90deg, #F7DF1E 0%, #FFE066 100%); width: 70%; height: 100%; border-radius: 12px; box-shadow: 0 0 8px rgba(247, 223, 30, 0.4);"></div>
-  </div>
-  <span style="color: #F7DF1E; font-weight: bold; min-width: 42px; text-align: left; font-size: 14px;">70%</span>
-</div>
-
-<div style="display: flex; align-items: center; gap: 14px;">
-  <span style="color: #E34F26; font-weight: bold; min-width: 110px; text-align: right; font-size: 14px; letter-spacing: 0.3px;">HTML</span>
-  <div style="flex: 1; background: rgba(255,255,255,0.04); height: 10px; border-radius: 12px; overflow: hidden; border: 1px solid rgba(227, 79, 38, 0.25); box-shadow: inset 0 0 6px rgba(0,0,0,0.3);">
-    <div style="background: linear-gradient(90deg, #E34F26 0%, #FF7A47 100%); width: 20%; height: 100%; border-radius: 12px; box-shadow: 0 0 8px rgba(227, 79, 38, 0.4);"></div>
-  </div>
-  <span style="color: #E34F26; font-weight: bold; min-width: 42px; text-align: left; font-size: 14px;">20%</span>
-</div>
-
-<div style="display: flex; align-items: center; gap: 14px;">
-  <span style="color: #1572B6; font-weight: bold; min-width: 110px; text-align: right; font-size: 14px; letter-spacing: 0.3px;">CSS</span>
-  <div style="flex: 1; background: rgba(255,255,255,0.04); height: 10px; border-radius: 12px; overflow: hidden; border: 1px solid rgba(21, 114, 182, 0.25); box-shadow: inset 0 0 6px rgba(0,0,0,0.3);">
-    <div style="background: linear-gradient(90deg, #1572B6 0%, #3B8ED4 100%); width: 10%; height: 100%; border-radius: 12px; box-shadow: 0 0 8px rgba(21, 114, 182, 0.4);"></div>
-  </div>
-  <span style="color: #1572B6; font-weight: bold; min-width: 42px; text-align: left; font-size: 14px;">10%</span>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<br/>
 
 <div style="background: linear-gradient(135deg, rgba(22, 33, 62, 0.9) 0%, rgba(15, 30, 50, 0.9) 100%); padding: 30px; border-radius: 20px; margin: 30px 0; border: 1px solid rgba(0, 217, 255, 0.2); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(0, 217, 255, 0.1);">
 

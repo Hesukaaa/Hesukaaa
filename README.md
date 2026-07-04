@@ -14,11 +14,23 @@
 
 </div>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 25px 0;">
 
 [<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />](https://personal-portfolio-joel-dibdib.vercel.app)
 [<img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />](mailto:dibdibjoel4@gmail.com)
 [<img src="https://img.shields.io/badge/Location-Philippines-00D9FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />](https://www.google.com/maps/place/Philippines)
+
+</div>
+
+<div align="center" style="margin: 20px 0;">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hesukaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center" style="margin: 20px 0;">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hesukaaa&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 

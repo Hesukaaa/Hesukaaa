@@ -2,15 +2,16 @@
 
 # Hi, I'm Joel Dibdib
 
-<img src="https://i.imgur.com/FDhBN5u.png" alt="Joel Dibdib" width="180" height="180" style="border-radius: 50%; border: 4px solid #00D9FF; object-fit: cover; display: block; margin: 12px auto;" />
+<img src="https://i.imgur.com/FDhBN5u.png" alt="Joel Dibdib" width="180" height="180" style="border-radius: 50%; border: 4px solid #00D9FF; object-fit: cover; display: block; margin: 12px auto; box-shadow: 0 0 25px rgba(0,217,255,0.35);" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full%20Stack%20Developer;UI%2FUX%20Enthusiast;Open%20Source%20Lover;Creative%20Thinker&duration=4000&repeat=always" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Full%20Stack%20Developer;UI%2FUX%20Enthusiast;Open%20Source%20Lover;Creative%20Thinker&duration=4000&repeat=always" alt="Typing SVG" />
 
 <div>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-joel-dibdib.vercel.app)
 [![GitHub followers](https://img.shields.io/github/followers/Hesukaaa?style=for-the-badge&color=00D9FF)](https://github.com/Hesukaaa?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=Hesukaaa&style=for-the-badge&color=00D9FF)](https://github.com/Hesukaaa)
+<img src="https://img.shields.io/badge/Level-Advanced-00D9FF?style=for-the-badge" />
 
 </div>
 
@@ -83,6 +84,12 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hesukaaa&theme=tokyonight&hide_border=true)
 
 ![Contribution Graph](https://ghchart.rshah.org/00D9FF/Hesukaaa)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hesukaaa&theme=tokyonight&no-bg=true&row=1&column=5" alt="GitHub Trophies" />
 
 </div>
 

@@ -2,7 +2,7 @@
 
 # Hi, I'm Joel Dibdib
 
-<img src="https://i.imgur.com/FDhBN5u.png" alt="Joel Dibdib" width="180" height="180" style="border-radius: 50%; border: 4px solid #00D9FF; object-fit: cover; display: block; margin: 12px auto; box-shadow: 0 0 25px rgba(0,217,255,0.35);" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Joel%20Dibdib&fontSize=90&fontColor=ffffff&animation=blink&duration=3000" alt="Header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Full%20Stack%20Developer;UI%2FUX%20Enthusiast;Open%20Source%20Lover;Creative%20Thinker&duration=4000&repeat=always" alt="Typing SVG" />
 
@@ -18,6 +18,8 @@
 </div>
 
 ---
+
+<div style="background: linear-gradient(135deg, #0f0f1e 0%, #1a1a2e 100%); padding: 20px; border-radius: 12px; margin: 20px 0;">
 
 ## 👨‍💻 About Me
 
@@ -35,7 +37,11 @@
 
 > 💡 *"Turning ideas into elegant, high-quality digital experiences."*
 
+</div>
+
 ---
+
+<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 12px; margin: 20px 0;">
 
 ## 🛠️ Tech Arsenal
 
@@ -67,7 +73,11 @@
 
 </div>
 
+</div>
+
 ---
+
+<div style="background: linear-gradient(135deg, #16213e 0%, #0f3460 100%); padding: 20px; border-radius: 12px; margin: 20px 0;">
 
 ## 📊 GitHub Stats
 
@@ -93,7 +103,11 @@
 
 </div>
 
+</div>
+
 ---
+
+<div style="background: linear-gradient(135deg, #0f3460 0%, #533483 100%); padding: 20px; border-radius: 12px; margin: 20px 0;">
 
 ## 🚀 Featured Projects
 
@@ -112,7 +126,11 @@ A modern personal portfolio website built with modern web technologies.
 
 </div>
 
+</div>
+
 ---
+
+<div style="background: linear-gradient(135deg, #533483 0%, #0f0f1e 100%); padding: 20px; border-radius: 12px; margin: 20px 0;">
 
 ## 🎯 Current Focus
 
@@ -122,6 +140,8 @@ A modern personal portfolio website built with modern web technologies.
 - 🌱 Learning **modern frameworks and design patterns**
 - 💬 Ask me about **web development, UI/UX, and creative coding**
 - ⚡ Fun fact: **I love creating things that live on the internet**
+
+</div>
 
 </div>
 

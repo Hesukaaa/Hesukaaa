@@ -155,14 +155,44 @@ Stay tuned for more amazing projects! I'm currently working on some exciting thi
 
 <div align="center">
 
-## ð¥ Connect With Me
+## 👥 Connect With Me
 
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/joel.dib)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/joel.dibdib)
+[<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />](https://www.tiktok.com/@weeelqt)
+[<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dibdibjoel4@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Hesukaaa)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Hesukaaa)
-[<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your.email@example.com)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Hesukaaa)
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+
+<sub>© 2024 Joel Dibdib. Built with こんな素晴らしい人です。 | <b>Keep Building, Keep Growing</b> なんてしょうがない</sub>
+
+</div>
+
+---
+
+## 🤝 Donation
+
+<div align="center">
+
+If you found my work helpful or inspiring, consider buying me a coffee!
+
+<br/>
+
+<a href="https://www.buymeacoffee.com/">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+</div>
+
 
 ---
 

@@ -1,20 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&custom=1&text=Joel%20Dibdib&fontSize=80&fontColor=00D9FF" alt="Header" />
+# Hi, I'm Joel Dibdib
 
-<img src="https://github.com/Hesukaaa.png" width="180" style="border-radius: 50%; border: 5px solid #00D9FF;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full%20Stack%20Developer;UI%2FUX%20Enthusiast;Open%20Source%20Lover;Creative%20Thinker&duration=4000&repeat=always" alt="Typing SVG" />
 
-<h1>Hi, I'm Joel Dibdib 👋</h1>
+<div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full%20Stack%20Developer;UI%2FUX%20Enthusiast;Open%20Source%20Lover;Creative%20Thinker" alt="Typing SVG" />
-
-<div align="center">
-
-<a href="https://personal-portfolio-joel-dibdib.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-[![Profile Views](https://komarev.com/ghpvc/?username=Hesukaaa&style=for-the-badge&color=00D9FF)](https://github.com/Hesukaaa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-joel-dibdib.vercel.app)
 [![GitHub followers](https://img.shields.io/github/followers/Hesukaaa?style=for-the-badge&color=00D9FF)](https://github.com/Hesukaaa?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hesukaaa&style=for-the-badge&color=00D9FF)](https://github.com/Hesukaaa)
 
 </div>
 
@@ -22,56 +16,71 @@
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
 <div align="center">
 
-```yaml
-👤 Name:   Joel Dibdib
-💼 Role:   Full Stack Developer & Designer
-📍 Based:  Philippines
-🌱 Focus:  Web Development, UI/UX Design, Open Source
-📧 Email:  dibdibjoel4@gmail.com
-```
+| Detail | Info |
+|--------|------|
+| 👤 **Name** | Joel Dibdib |
+| 💼 **Role** | Full Stack Developer & Designer |
+| 📍 **Location** | Philippines |
+| 🌱 **Focus** | Web Development, UI/UX Design, Open Source |
+| 📧 **Email** | [dibdibjoel4@gmail.com](mailto:dibdibjoel4@gmail.com) |
 
-> 💡 **"Turning ideas into elegant, high-quality digital experiences."**
+</div>
+
+> 💡 *"Turning ideas into elegant, high-quality digital experiences."*
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frameworks** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white) |
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Hesukaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hesukaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesukaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesukaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00D9FF/Hesukaaa" alt="Contribution Graph" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hesukaaa&theme=tokyonight&hide_border=true)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hesukaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![Contribution Graph](https://ghchart.rshah.org/00D9FF/Hesukaaa)
 
 </div>
 
@@ -81,68 +90,46 @@
 
 <div align="center">
 
-### Here are some of my best works:
-
-<table>
-<tr>
-<td width="50%" align="center">
-
 ### 🎨 Personal Portfolio
-A personal portfolio website built with modern web technologies.
+**Live:** [personal-portfolio-joel-dibdib.vercel.app](https://personal-portfolio-joel-dibdib.vercel.app)
+
+A modern personal portfolio website built with modern web technologies.
 
 <a href="https://github.com/Hesukaaa/Personal-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hesukaaa&repo=Personal-Portfolio&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hesukaaa&repo=Personal-Portfolio&theme=tokyonight&hide_border=true&show_description=true" />
 </a>
 
-<a href="https://personal-portfolio-joel-dibdib.vercel.app">
-  <img src="https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+</div>
 
-</td>
-<td width="50%" align="center">
+<div align="center">
 
 ### 💼 Portfolio
-Another portfolio project showcasing my skills and experience.
+A portfolio project showcasing skills and experience.
 
 <a href="https://github.com/Hesukaaa/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hesukaaa&repo=Portfolio&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hesukaaa&repo=Portfolio&theme=tokyonight&hide_border=true&show_description=true" />
 </a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
+</div>
+
+<div align="center">
 
 ### 🌐 My Portfolio
 A simple yet elegant HTML portfolio.
 
 <a href="https://github.com/Hesukaaa/My-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hesukaaa&repo=My-Portfolio&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hesukaaa&repo=My-Portfolio&theme=tokyonight&hide_border=true&show_description=true" />
 </a>
-
-</td>
-<td width="50%" align="center">
-
-### 📝 Profile Readme
-My GitHub profile repository.
-
-<a href="https://github.com/Hesukaaa/Hesukaaa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hesukaaa&repo=Hesukaaa&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-</tr>
-</table>
 
 </div>
 
 ---
 
-## 🎯 What I'm Up To
+## 🎯 Current Focus
 
 <div align="center">
 
-- 🔭 Currently building **full-stack web applications**
+- 🔭 Building **full-stack web applications**
 - 🌱 Learning **modern frameworks and design patterns**
 - 💬 Ask me about **web development, UI/UX, and creative coding**
 - ⚡ Fun fact: **I love creating things that live on the internet**
@@ -151,7 +138,7 @@ My GitHub profile repository.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -169,22 +156,6 @@ My GitHub profile repository.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 
-<sub>© 2024 Joel Dibdib. Built with ❤️ | <b>Keep Building, Keep Growing</b></sub>
-
-</div>
-
----
-
-## ☕ Support
-
-<div align="center">
-
-If you like my work, consider buying me a coffee!
-
-<br/>
-
-<a href="https://www.buymeacoffee.com/">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
+<sub>© 2024 Joel Dibdib. Built with ❤️ | **Keep Building, Keep Growing**</sub>
 
 </div>

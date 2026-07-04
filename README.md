@@ -75,33 +75,7 @@ I'm a passionate Full Stack Developer & Designer from the Philippines. I special
 
 <div style="background: linear-gradient(135deg, rgba(15, 15, 30, 0.9) 0%, rgba(26, 26, 46, 0.9) 100%); padding: 35px; border-radius: 20px; margin: 30px 0; border: 1px solid rgba(0, 217, 255, 0.25); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(0, 217, 255, 0.15);">
 
-<div align="center">
 
-## GitHub Stats Dashboard
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 18px; margin: 30px 0; max-width: 900px; margin-left: auto; margin-right: auto;">
-
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.12) 0%, rgba(0, 217, 255, 0.03) 100%); padding: 22px 18px; border-radius: 16px; border: 1px solid rgba(0, 217, 255, 0.35); text-align: center; box-shadow: 0 6px 20px rgba(0, 217, 255, 0.15);">
-  <div style="font-size: 13px; color: #aaa; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; font-weight: 600;">Repositories</div>
-  <div style="font-size: 40px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 12px rgba(0, 217, 255, 0.6); line-height: 1;">5</div>
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.12) 0%, rgba(0, 217, 255, 0.03) 100%); padding: 22px 18px; border-radius: 16px; border: 1px solid rgba(0, 217, 255, 0.35); text-align: center; box-shadow: 0 6px 20px rgba(0, 217, 255, 0.15);">
-  <div style="font-size: 13px; color: #aaa; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; font-weight: 600;">Followers</div>
-  <div style="font-size: 40px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 12px rgba(0, 217, 255, 0.6); line-height: 1;">1</div>
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.12) 0%, rgba(0, 217, 255, 0.03) 100%); padding: 22px 18px; border-radius: 16px; border: 1px solid rgba(0, 217, 255, 0.35); text-align: center; box-shadow: 0 6px 20px rgba(0, 217, 255, 0.15);">
-  <div style="font-size: 13px; color: #aaa; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; font-weight: 600;">Following</div>
-  <div style="font-size: 40px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 12px rgba(0, 217, 255, 0.6); line-height: 1;">0</div>
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(0, 217, 255, 0.12) 0%, rgba(0, 217, 255, 0.03) 100%); padding: 22px 18px; border-radius: 16px; border: 1px solid rgba(0, 217, 255, 0.35); text-align: center; box-shadow: 0 6px 20px rgba(0, 217, 255, 0.15);">
-  <div style="font-size: 13px; color: #aaa; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; font-weight: 600;">Stars</div>
-  <div style="font-size: 40px; font-weight: bold; color: #00D9FF; text-shadow: 0 0 12px rgba(0, 217, 255, 0.6); line-height: 1;">0</div>
-</div>
-
-</div>
 
 <div style="background: rgba(0, 217, 255, 0.04); padding: 22px 24px; border-radius: 14px; border: 1px solid rgba(0, 217, 255, 0.2); max-width: 520px; margin: 0 auto; box-shadow: inset 0 0 18px rgba(0, 217, 255, 0.05);">
 
